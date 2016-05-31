@@ -1,0 +1,30 @@
+DOM (without XPath) ==>
+Key Word: sony
+Engine: phx-dkadu1
+Version: kadu.6918
+Response time: 63929
+Number of deals: 40
+
+DOM (XPath) ==>
+Key Word: sony
+Engine: phx-dkadu1
+Version: kadu.6918
+Category name: Digital Cameras
+Deal name: Sony Cyber-shot DSC-W350 14.1 MP Digital Camera (Black) w/ 4GB Card, Case and More
+Deal docID: 1093880
+Response time: 63929
+Number of deals: 40
+
+SAX ==>
+Key Word: sony
+Engine: phx-dkadu1
+Version: kadu.6918
+Number of deals: 40
+Response time: 63929
+
+StAX ==>
+Key Word: sony
+Engine: phx-dkadu1
+Version: kadu.6918
+Number of deals: 40
+Response time: 63929
